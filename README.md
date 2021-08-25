@@ -4,7 +4,7 @@ This repository aims to document the interesting papers/blogs in different direc
 ## Computer Vision
 
 ## Machine Learning
--[Attention-based Deep Multiple Instance Learning](https://arxiv.org/abs/1802.04712)
+- [Attention-based Deep Multiple Instance Learning](https://arxiv.org/abs/1802.04712)
 
 ## NLP
 
