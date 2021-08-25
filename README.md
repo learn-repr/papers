@@ -83,4 +83,4 @@ This repository aims to document the interesting papers/blogs in different direc
 - [Plug-and-Play Methods Provably Converge with Properly Trained Denoisers](https://arxiv.org/pdf/1905.05406)
 
 ## Others
--[Parallel Multi Channel Convolution using General Matrix Multiplication](https://arxiv.org/abs/1704.04428)
+- [Parallel Multi Channel Convolution using General Matrix Multiplication](https://arxiv.org/abs/1704.04428)
