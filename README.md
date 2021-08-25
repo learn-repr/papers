@@ -3,10 +3,12 @@ This repository aims to document the interesting papers/blogs in different direc
 
 ## Computer Vision
 #### Image Priors & Spatial Models
+- [A non-local algorithm for image denoising](http://www.iro.umontreal.ca/~mignotte/IFT6150/Articles/Buades-NonLocal.pdf)
 - [Fast Image Deconvolution using Hyper-Laplacian Priors](https://papers.nips.cc/paper/2009/file/3dd48ab31d016ffcbf3314df2b3cb9ce-Paper.pdf)
 - [From Learning Models of Natural Image Patches to Whole Image Restoration](https://people.csail.mit.edu/danielzoran/EPLLICCVCameraReady.pdf)
 - [Fields of Experts: A framework for learning image priors](http://files.is.tue.mpg.de/black/papers/cvpr2005.pdf)
 - [Learning Deep CNN Denoiser Prior for Image Restoration](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Deep_CNN_CVPR_2017_paper.pdf)
+- [Deep Image Prior](https://arxiv.org/pdf/1711.10925)
 
 #### Depth and Motion Estimation
 - [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf)
@@ -42,8 +44,57 @@ This repository aims to document the interesting papers/blogs in different direc
 
 
 #### Computational Photography
+- [CG2Real:  Improving  the  Realism  of  Computer Generated Images using a Large Collection of  Photographs](http://people.csail.mit.edu/billf/publications/CG2Real.pdf)
+- [Seam Carving for Content-Aware Image Resizing](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/hw/proj3-seamcarving/imret.pdf)
+- [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
+- [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
+- [Image  Style  Transfer  Using  Convolutional  Neural  Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+- [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379)
+- [Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004)
+- [Sparse, Smart Contours to Represent and Edit Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dekel_Sparse_Smart_Contours_CVPR_2018_paper.pdf)
+- [Generative Adversarial Text-to-Image Synthesis](https://arxiv.org/abs/1605.05396)
+- [Motion  Magnification](http://people.csail.mit.edu/~celiu/motionmag/motionmag.pdf)
+- [Phase-Based Video Motion Processing](https://people.csail.mit.edu/billf/publications/Phase-Based_Video.pdf)
+- [Super-Resolution from a Single Image](http://www.wisdom.weizmann.ac.il/~vision/courses/2010_2/papers/single_image_SR.pdf)
+- [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~irani/PAPERS/BlindDeblurring_ECCV2014.pdf)
+- [Blind Dehazing Using Internal Patch Recurrence](https://ieeexplore.ieee.org/document/7492870)
+- [Single Image Haze Removal Using Dark Channel Prior](http://kaiminghe.com/publications/cvpr09.pdf)
+- [Revealing and Modifying Non-Local Variations in a Single Image](https://people.csail.mit.edu/talidekel/papers/NonLocalVariationsSIGA15.pdf)
+- [Data-driven Hallucination of Different Times of Day from a Single Outdoor Photo](http://people.csail.mit.edu/yichangshih/time_lapse/time_lapse.pdf)
 
 #### Photometric Reasoning
+ - [The Bas-Relief  Ambiguity](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/classes/cs294-appearance_models/sp2001/cache/belhumeur99.pdf)
+ - [From Shading to Local Shape]()
+ - [Shape, Illumination and Reflectance from Shading]()
+ - [Category-Specific Object Reconstruction from a Single Image]()
+ - [Deriving intrinsic images from image sequences]()
+ - [Recovering Intrinsic Images from a Single Image]()
+ - [Shapecollage: occlusion-aware, example-based shape interpretation]()
+ - [Discriminative Shape from Shading in Uncalibrated Illumination]()
+ - [Shape Estimation in Natural Illumination]()
+ - [Ground truth dataset and baseline evaluations for intrinsic image algorithms]()
+ - [Intrinsic Images in the Wild]()
+ - [Learning Ordinal Relationships for Mid-Level Vision]()
+ - [CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering]()
+ - [Single Image Intrinsic Decomposition without a Single Intrinsic Image]()
+ - [Single-Shot Reflectance Measurement from Polarized Color Gradient Illumination]()
+ - [Color Subspaces as Photometric Invariants]()
+ - [A Dictionary-based Approach for Estimating Shape and Spatially-Varying Reflectance]()
+ - [Near-Light Photometric Stereo using Circularly Placed Point Light Sources]()
+ - [Deep Outdoor Illumination Estimation]()
+ - [Learning to Predict Indoor Illumination from a Single Image]()
+ - [Color Constancy by Learning to Predict Chromaticity from Luminance]()
+ - [Convolutional Color Constancy]()
+ - [Illuminant Spectra-based Source Separation Using Flash Photography]()
+ - [Learning to Separate Multiple Illuminants in a Single Image]()
+ - [Learning Sensor Multiplexing Design through Back-propagation]()
+ - [Flash Photography Enhancement via Intrinsic Relighting]()
+ - [Dark Flash Photography]()
+ - [Burst Denoising with Kernel Prediction Networks]()
+ - [Generalized Assorted Pixel Camera: Post-Capture Control of Resolution, Dynamic Range and Spectrum]()
+ - [Single-Shot High Dynamic Range Imaging with Conventional Camera Hardware]()
+ - [Unbounded High Dynamic Range Photography using a Modulo Camera]()
+ - [A Layer-Based Restoration Framework for Variable-Aperture Photography]()
 
 #### Medical Imaging
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597)
@@ -70,6 +121,7 @@ This repository aims to document the interesting papers/blogs in different direc
 - [Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf)
 - [Wasserstein GAN](https://arxiv.org/pdf/1511.06434.pdf)
 - [TransGAN](https://arxiv.org/pdf/2102.07074.pdf)
+- [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957)
 
 #### Multiple Instance Learning
 - [Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365)
@@ -83,6 +135,7 @@ This repository aims to document the interesting papers/blogs in different direc
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 - [The Little Engine that Could: Regularization by Denoising (RED)](https://arxiv.org/abs/1611.02862)
 - [Plug-and-Play Methods Provably Converge with Properly Trained Denoisers](https://arxiv.org/pdf/1905.05406)
+- [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980)
 
 ## Others
 - [Parallel Multi Channel Convolution using General Matrix Multiplication](https://arxiv.org/abs/1704.04428)
