@@ -28,7 +28,7 @@ This repository aims to document the interesting papers/blogs in different direc
 - [Video Google: A Text Retrieval Approach to Object Matching in Videos](http://www.robots.ox.ac.uk:5000/~vgg/publications/papers/sivic06c.pdf)
 - [Histograms of Oriented Gradients for Human Detection](http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
 - [Object Detection with Discriminatively Trained Part Based Models](http://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
-- [Rich feature hierarchies for accurate object detection and semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
+- [Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)](http://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 - [Simultaneous Detection and Segmentation](https://arxiv.org/pdf/1407.1808.pdf)
