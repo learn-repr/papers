@@ -43,7 +43,12 @@ This repository aims to document the interesting papers/blogs in different direc
 
 #### Computational Photography
 
-#### Advanced Photometric Reasoning
+#### Photometric Reasoning
+
+#### Medical Imaging
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597)
+- [Brain Tumor Segmentation and Radiomics Survival Prediction: Contribution to the BRATS 2017 Challenge](https://arxiv.org/pdf/1802.10508)
+- [Adversarial Regularizers in Inverse Problems](https://arxiv.org/pdf/1805.11572)
 
 ## Machine Learning
 #### AutoEncoder
