@@ -61,6 +61,7 @@ This repository aims to document the interesting papers/blogs in different direc
 
 #### Transformer
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)
 - [Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT](https://arxiv.org/pdf/2104.03466.pdf)
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf)
 
@@ -71,6 +72,7 @@ This repository aims to document the interesting papers/blogs in different direc
 - [TransGAN](https://arxiv.org/pdf/2102.07074.pdf)
 
 #### Multiple Instance Learning
+- [Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365)
 - [Attention-based Deep Multiple Instance Learning](https://arxiv.org/abs/1802.04712)
 
 ## NLP
