@@ -141,4 +141,7 @@ This repository aims to document the interesting papers/blogs in different direc
 - [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/pdf/2010.07468)
 
 ## Others
+#### Multi-channel Convolution
+- [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759)
 - [Parallel Multi Channel Convolution using General Matrix Multiplication](https://arxiv.org/abs/1704.04428)
+
