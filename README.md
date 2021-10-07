@@ -144,4 +144,4 @@ This repository aims to document the interesting papers/blogs in different direc
 #### Multi-channel Convolution
 - [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759)
 - [Parallel Multi Channel Convolution using General Matrix Multiplication](https://arxiv.org/abs/1704.04428)
-
+- [CVPR/ECCV/ICCV/NIPS](https://bbs.cvmart.net/articles/4267)
